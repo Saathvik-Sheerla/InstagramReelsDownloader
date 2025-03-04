@@ -1,3 +1,4 @@
 .env
 /downloads
-/Venv_InstagramReelsDownloaderBot
+/Venv_reelget
+/downloaders/__pycache__
